@@ -21,7 +21,7 @@ class MyApp extends StatelessWidget {
   }
 }
 //fixme: This is fix me comments
-//# This is very important
+//% This is very important
 //! This is alert
 //todo: This is todo list
 //? Should this method expose to external api
@@ -32,7 +32,8 @@ class MyApp extends StatelessWidget {
 //TODO: What you gonna do about it
 
 /**
- # this is important is right now
+ % this is important is right now
  ! this is an alert 
+ ! this is an alert this is up to you not to do the right thing
  
  */
